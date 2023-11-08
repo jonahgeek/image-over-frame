@@ -1,21 +1,21 @@
-# Image Overlay Library
+# Image Over Frame Library
 
-The Image Overlay Library is a JavaScript library that allows you to overlay one image on top of another with ease. It uses the Jimp library for image manipulation, and it's suitable for adding watermarks, logos, or any other images to an existing image.
+The Image Over Frame Library is a JavaScript library that allows you to overlay one image on top of another with ease. It uses the Jimp library for image manipulation, and it's suitable for adding watermarks, logos, or any other images to an existing image.
 
 ## Installation
 
-You can install the `image-overlay` library via npm:
+You can install the `image-over-frame` library via npm:
 
 ```bash
-npm install image-overlay
+npm install image-over-frame
 ```
 
 ## Usage
 
-Here's how you can use the `image-overlay` library in your Node.js project:
+Here's how you can use the `image-over-frame` library in your Node.js project:
 
 ```javascript
-const imageOverlay = require('image-overlay');
+const imageOverlay = require('image-over-frame');
 
 // Define the paths to your frame image and second image
 const frameImagePath = 'path/to/frame.png';

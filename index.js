@@ -1,3 +1,3 @@
-const imageOverlay = require('./lib/image-overlay');
+const imageOverlay = require('./lib/image-over-frame');
 
 module.exports = imageOverlay;

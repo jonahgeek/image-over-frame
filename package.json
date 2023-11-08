@@ -1,7 +1,7 @@
 {
-  "name": "image-overlay",
+  "name": "image-over-frame",
   "version": "1.0.0",
-  "description": "Image Overlay Library",
+  "description": "Image Over Frame Library",
   "main": "index.js",
   "scripts": {
     "server": "node index.js"
@@ -11,12 +11,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jasttech/image-overlay"
+    "url": "https://github.com/jonahgeek/image-over-frame"
   },
   "bugs": {
-    "url": "https://github.com/jasttech/image-overlay/issues"
+    "url": "https://github.com/jonahgeek/image-over-frame/issues"
   },
-  "homepage": "https://github.com/jasttech/image-overlay",
+  "homepage": "https://github.com/jonahgeek/image-over-frame",
   "dependencies": {
     "jimp": "^0.22.10"
   }
