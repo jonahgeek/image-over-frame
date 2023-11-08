@@ -1,0 +1,23 @@
+{
+  "name": "image-overlay",
+  "version": "1.0.0",
+  "description": "Image Overlay Library",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js"
+  },
+  "keywords": [],
+  "author": "Jonathan Mwebaze",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasttech/image-overlay"
+  },
+  "bugs": {
+    "url": "https://github.com/jasttech/image-overlay/issues"
+  },
+  "homepage": "https://github.com/jasttech/image-overlay",
+  "dependencies": {
+    "jimp": "^0.22.10"
+  }
+}
